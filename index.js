@@ -3,7 +3,7 @@ var jsonContent = require("./random.json");
 /**
  * Generates Random Emojis Supported by Github
  * @param {void} 
- * @return {object} text, emoji
+ * @return {object} name, emoji
  */
 
 function random() {
@@ -16,7 +16,7 @@ function random() {
 	var n = Math.floor(Math.random() * arr.length);
 
 	return {
-		text: arr[n],
+		name: arr[n],
 		emoji: jsonContent[arr[n]]
 	};
 

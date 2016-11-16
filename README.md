@@ -14,10 +14,10 @@ $ npm install --save random-github-emoji
 const random = require('random-github-emoji');
 
 random();
-//=> { text: 'crocodile', emoji: '🐊' }
+//=> { name: 'crocodile', emoji: '🐊' }
 
 random();
-//=> { text: 'hammer_and_pick', emoji: '⚒' }
+//=> { name: 'hammer_and_pick', emoji: '⚒' }
 ```
 
 ## License
