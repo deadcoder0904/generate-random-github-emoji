@@ -1,4 +1,4 @@
-# generate-random-github-emoji
+# generate-random-github-emoji [![Build Status](https://travis-ci.org/deadcoder0904/generate-random-github-emoji.svg?branch=master)](https://travis-ci.org/deadcoder0904/generate-random-github-emoji)
 
 > Generates Random Emoji's supported by Github every single time
 
