@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
-  "author": "",
+  "author": {
+    "email": "akshaykadam0904@gmail.com",
+    "name": "Akshay Kadam",
+    "url": "http://deadcoder0904.github.io"
+  },
   "license": "MIT"
 }
