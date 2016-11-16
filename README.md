@@ -26,4 +26,4 @@ random();
 
 ### Made by A2K
 
-<img src="sign.png" alt="Sign" width=300 height=130 />
+<img src="http://imgur.com/jfmA33n.png" alt="Sign" width=300 height=130 />
