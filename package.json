@@ -1,6 +1,6 @@
 {
   "name": "random-github-emoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Node JS script to Generate Random Github Emoji Everytime",
   "main": "index.js",
   "scripts": {
